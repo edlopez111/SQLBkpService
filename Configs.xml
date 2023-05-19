@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+	<srcFolder>C:\temp\SQLBkpService\bakFiles\</srcFolder>
+	<destFolder>C:\Users\SOPORTE_02\OneDrive\backups\</destFolder>
+	<fileName>Backup_</fileName>
+	<logPath>C:\temp\SQLBkpService\</logPath>
+	<activeHour>23</activeHour>
+	<mailAccount>Ergpv1nkfO8dHi/2Wg0jfxa3GL4GOWq7CLnIpTAOU2E=</mailAccount>
+	<mailPassword>jnTc7pQB3ipRLZObAbL9Gw==</mailPassword>
+	<Notify>
+		<mail>Ergpv1nkfO8dHi/2Wg0jfxa3GL4GOWq7CLnIpTAOU2E=</mail>
+	</Notify>
+	<integratedSecurity>0</integratedSecurity>
+	<dbServerAddress>M4BLoa2PIci3puux4QJy3g==</dbServerAddress>
+	<dbServer>QijNvfdOmYmYUGAN6b8ueKhMUJXZdg/LSDQWaNxdXqk=</dbServer>
+	<dbUser>weA8n7PBAKZaRNjWuwen+g==</dbUser>
+	<dbPassword>gBFJmokLFuUwMd6c8OyGZQ==</dbPassword>
+	<Databases>
+		<database>nFaFhFVYTsPmqzhd9N5P8g==</database>
+		<database>fhMuF3YzvzuCGp8s7iDOho3avpkpVsvBLLG3nYjMrdc=</database>
+		<database>PfKSazHyNtejd77n0pkrPQ==</database>
+	</Databases>
+</Settings>
